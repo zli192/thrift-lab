@@ -30,9 +30,9 @@ Thrift version 0.10.0
 vchaska1@remote07:~/thrift-lab$
 ```
 
-4. Clone this repo (https://github.com/vipulchaskar/thrift-lab) and cd into the repo.
+4. Clone this repo (https://github.com/Yao-Liu-CS457-CS557/thrift-lab) and cd into the repo.
 ```
-vchaska1@remote07:~$ git clone https://github.com/vipulchaskar/thrift-lab
+vchaska1@remote07:~$ git clone https://github.com/Yao-Liu-CS457-CS557/thrift-lab
 ...
 vchaska1@remote07:~$ cd thrift-lab/
 vchaska1@remote07:~/thrift-lab$
